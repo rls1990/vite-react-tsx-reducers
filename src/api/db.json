@@ -1,0 +1,24 @@
+{
+  "caballeros": [
+    {
+      "id": "1",
+      "name": "Seiya",
+      "constelation": "Pegaso"
+    },
+    {
+      "id": "2",
+      "name": "Shiryu",
+      "constelation": "Dragón"
+    },
+    {
+      "id": "3",
+      "name": "Hyoga",
+      "constelation": "Cisne"
+    },
+    {
+      "id": "4",
+      "name": "Shun",
+      "constelation": "Andrómeda"
+    }
+  ]
+}
